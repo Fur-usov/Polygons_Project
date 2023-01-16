@@ -8,3 +8,5 @@ Implemented:
 - file system: open, savem save as, new file
 - 2 types of convex hull algorithms
 - dynamic resizing of vertices
+- serialization
+- "command" pattern
